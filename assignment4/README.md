@@ -33,7 +33,7 @@ e621944d55b827774fa6f9813ddeacd9
 Connecting to server at 127.0.0.1:4000
 b'{"name": "John Smith", "email": "jsmith@gmail.com", "age": 20}'
 ```
-# Part II.
+# Result for Part II.
 Implement consistent hashing to shard the data.
 ```
 python3 cache_client_consistent.py
